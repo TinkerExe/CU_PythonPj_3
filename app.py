@@ -1,8 +1,9 @@
 import dash
 from dash import dcc, html, Input, Output, State
 import plotly.graph_objs as go
-#from weather import get_weather
-from testApi.test_api import test_get_weather # ТЕСТЫ ТЕСТЫ
+
+from weather import get_weather
+#from testApi.test_api import test_get_weather # ТЕСТЫ ТЕСТЫ
 
 app = dash.Dash(__name__)
 cities = []
@@ -25,7 +26,7 @@ app.layout = html.Div([
         marks={i: str(i) for i in range(2, 6)},
         step=1,
         tooltip={"placement": "bottom", "always_visible": True},
-        included=False,
+        included=False,    
     ),
 
     dcc.Dropdown(id='variable-dropdown', options=[
@@ -69,8 +70,10 @@ def update_cities(add_clicks, clear_clicks, variable, days, city_input):
     if cities:
         weather_data = []
         for city in cities:
-#            data = get_weather(city, days)
-            data = test_get_weather(city, days) # ТЕСТЫ ТЕСТЫ ТЕСТЫ 
+
+            data = get_weather(city, days)
+#            data = test_get_weather(city, days) # ТЕСТЫ ТЕСТЫ ТЕСТЫ 
+
             if data == "error_city" or data == "error_weather": # Для test_get_api не работает 
                 error_message = f"Ошибка: Не удалось получить данные для города '{city}'."
                 cities.remove(city)
@@ -95,14 +98,28 @@ def update_cities(add_clicks, clear_clicks, variable, days, city_input):
                     else day['humidityAg']
                     for day in data
                 ]
-
-                traces.append(go.Scatter(
+                
+                traces.append(go.Scatter( # Крутая штука
                     x=dates,
                     y=values,
                     mode='lines+markers',
                     name=city,
-                    line=dict(color=f'rgba({i * 50}, {i * 100}, {i * 150}, 1)')
+                    line=dict(color=f'rgba({i * 50}, {i * 100}, {i * 150}, 1)'),
+                    hovertemplate=( 
+                        '<b>Город:</b> ' + city + '<br>' +
+                        '<b>Дата:</b> %{x}<br>' +
+                        '<b>Прогноз:</b> %{customdata[2]}<br>' +
+                        '<b>Температура:</b> %{customdata[0]} - %{customdata[1]} °C<br>' +
+                        '<b>Влажность:</b> %{customdata[3]} %<br>' +
+                        '<b>Скорость ветра:</b> %{customdata[4]:.1f} м/с<br>' +
+                        '<extra></extra>'
+                    ),
+                    customdata=[
+                        [day['temperature']['min'], day['temperature']['max'], day['text'][0], day['humidityAg'], day['windSpeed'][0]]
+                        for day in data
+                    ]
                 ))
+
 
             figure = {
                 'data': traces,
@@ -145,3 +162,4 @@ def update_cities(add_clicks, clear_clicks, variable, days, city_input):
 
 if __name__ == '__main__':
     app.run_server()
+

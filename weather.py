@@ -46,6 +46,7 @@ def get_for_name(name):
     if response.status_code == 200:
         return data[0]['Key']
     else:
+        print("---\nAPI-key error\n---")
         return "err"
     
 def get_weather_data(city):
@@ -63,4 +64,7 @@ def get_weather_data(city):
     if response.status_code == 200:
                 return data
     else:
+        print("---\nAPI-key error\n---")
         return "err"
+    
+print(get_weather("Казань", 1))
