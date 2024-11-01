@@ -1,0 +1,1700 @@
+{
+    "Headline": {
+        "EffectiveDate": "2024-11-04T19:00:00+03:00",
+        "EffectiveEpochDate": 1730736000,
+        "Severity": 2,
+        "Text": "Понедельник, вечер - Вторник, утро: ожидается дождливая погода",
+        "Category": "rain",
+        "EndDate": "2024-11-05T13:00:00+03:00",
+        "EndEpochDate": 1730800800,
+        "MobileLink": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?unit=c",
+        "Link": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?unit=c"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2024-10-31T07:00:00+03:00",
+            "EpochDate": 1730347200,
+            "Sun": {
+                "Rise": "2024-10-31T06:56:00+03:00",
+                "EpochRise": 1730346960,
+                "Set": "2024-10-31T17:13:00+03:00",
+                "EpochSet": 1730383980
+            },
+            "Moon": {
+                "Rise": "2024-10-31T05:44:00+03:00",
+                "EpochRise": 1730342640,
+                "Set": "2024-10-31T16:31:00+03:00",
+                "EpochSet": 1730381460,
+                "Phase": "WaningCrescent",
+                "Age": 29
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 10.9,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 17.6,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 7.8,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 20.5,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Приятно"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 7.8,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 17.5,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Приятно"
+                }
+            },
+            "HoursOfSun": 8.1,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 4.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1,
+                    "Type": "Озон"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 3,
+                    "Category": "Умерен.",
+                    "CategoryValue": 2
+                }
+            ],
+            "Day": {
+                "Icon": 2,
+                "IconPhrase": "Преимущественно ясно",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Преимущественно ясно",
+                "LongPhrase": "Преимущественно ясно",
+                "PrecipitationProbability": 25,
+                "ThunderstormProbability": 0,
+                "RainProbability": 25,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 11.1,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 138,
+                        "Localized": "ЮВ",
+                        "English": "SE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 25.9,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 80,
+                        "Localized": "В",
+                        "English": "E"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 23,
+                "Evapotranspiration": {
+                    "Value": 1.5,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 3486.7,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 56,
+                    "Maximum": 79,
+                    "Average": 66
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 8.6,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 12.7,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 11.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 8.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 14.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 12.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Night": {
+                "Icon": 18,
+                "IconPhrase": "Дождь",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light",
+                "ShortPhrase": "Дождь и изморось",
+                "LongPhrase": "Дождь и изморось",
+                "PrecipitationProbability": 90,
+                "ThunderstormProbability": 18,
+                "RainProbability": 90,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 13.0,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 106,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 18.5,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 117,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 2.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 2.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 2.5,
+                "HoursOfRain": 2.5,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 85,
+                "Evapotranspiration": {
+                    "Value": 0.3,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 0.0,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 79,
+                    "Maximum": 85,
+                    "Average": 81
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 9.7,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 11.3,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 10.1,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 9.9,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 11.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 10.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=1&unit=c",
+            "Link": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=1&unit=c"
+        },
+        {
+            "Date": "2024-11-01T07:00:00+03:00",
+            "EpochDate": 1730433600,
+            "Sun": {
+                "Rise": "2024-11-01T06:57:00+03:00",
+                "EpochRise": 1730433420,
+                "Set": "2024-11-01T17:11:00+03:00",
+                "EpochSet": 1730470260
+            },
+            "Moon": {
+                "Rise": "2024-11-01T06:47:00+03:00",
+                "EpochRise": 1730432820,
+                "Set": "2024-11-01T16:52:00+03:00",
+                "EpochSet": 1730469120,
+                "Phase": "New",
+                "Age": 0
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 10.9,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 16.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 9.0,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 14.7,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Прохладно"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 9.0,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 14.3,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Прохладно"
+                }
+            },
+            "HoursOfSun": 1.1,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 5.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1,
+                    "Type": "Озон"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 1,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                }
+            ],
+            "Day": {
+                "Icon": 12,
+                "IconPhrase": "Ливни",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light",
+                "ShortPhrase": "Ливни",
+                "LongPhrase": "Ливни",
+                "PrecipitationProbability": 84,
+                "ThunderstormProbability": 17,
+                "RainProbability": 84,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 13.0,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 120,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 31.5,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 121,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 2.8,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 2.8,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 2.5,
+                "HoursOfRain": 2.5,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 91,
+                "Evapotranspiration": {
+                    "Value": 1.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 1363.7,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 67,
+                    "Maximum": 80,
+                    "Average": 74
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 10.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 12.9,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 12.0,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 10.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 13.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 12.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Night": {
+                "Icon": 36,
+                "IconPhrase": "Переменная облачность",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Растущая облачность",
+                "LongPhrase": "Растущая облачность",
+                "PrecipitationProbability": 13,
+                "ThunderstormProbability": 0,
+                "RainProbability": 13,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 13.0,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 114,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 25.9,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 131,
+                        "Localized": "ЮВ",
+                        "English": "SE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 69,
+                "Evapotranspiration": {
+                    "Value": 0.3,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 0.0,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 79,
+                    "Maximum": 83,
+                    "Average": 81
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 9.9,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 12.3,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 11.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 10.1,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 12.7,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 11.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=2&unit=c",
+            "Link": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=2&unit=c"
+        },
+        {
+            "Date": "2024-11-02T07:00:00+03:00",
+            "EpochDate": 1730520000,
+            "Sun": {
+                "Rise": "2024-11-02T06:59:00+03:00",
+                "EpochRise": 1730519940,
+                "Set": "2024-11-02T17:10:00+03:00",
+                "EpochSet": 1730556600
+            },
+            "Moon": {
+                "Rise": "2024-11-02T07:54:00+03:00",
+                "EpochRise": 1730523240,
+                "Set": "2024-11-02T17:16:00+03:00",
+                "EpochSet": 1730556960,
+                "Phase": "WaxingCrescent",
+                "Age": 1
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 10.6,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 17.7,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 7.7,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 18.3,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Приятно"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 7.7,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 16.3,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Прохладно"
+                }
+            },
+            "HoursOfSun": 4.2,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 4.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1,
+                    "Type": "Озон"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 2,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                }
+            ],
+            "Day": {
+                "Icon": 3,
+                "IconPhrase": "Небольшая облачность",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Небольшая облачность",
+                "LongPhrase": "Небольшая облачность",
+                "PrecipitationProbability": 2,
+                "ThunderstormProbability": 0,
+                "RainProbability": 2,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 13.0,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 129,
+                        "Localized": "ЮВ",
+                        "English": "SE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 25.9,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 153,
+                        "Localized": "ЮЮВ",
+                        "English": "SSE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 54,
+                "Evapotranspiration": {
+                    "Value": 1.5,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 2645.2,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 57,
+                    "Maximum": 82,
+                    "Average": 66
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 9.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 12.9,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 11.7,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 9.7,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 14.6,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 12.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Night": {
+                "Icon": 40,
+                "IconPhrase": "Преимущественно облачно с ливнями",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light",
+                "ShortPhrase": "Ливни",
+                "LongPhrase": "Ливни",
+                "PrecipitationProbability": 64,
+                "ThunderstormProbability": 13,
+                "RainProbability": 64,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 11.1,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 356,
+                        "Localized": "C",
+                        "English": "N"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 16.7,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 310,
+                        "Localized": "СЗ",
+                        "English": "NW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 1.5,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 1.5,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 1.0,
+                "HoursOfRain": 1.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 39,
+                "Evapotranspiration": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 0.0,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 78,
+                    "Maximum": 88,
+                    "Average": 82
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 10.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 11.1,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 10.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 10.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 11.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 10.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=3&unit=c",
+            "Link": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=3&unit=c"
+        },
+        {
+            "Date": "2024-11-03T07:00:00+03:00",
+            "EpochDate": 1730606400,
+            "Sun": {
+                "Rise": "2024-11-03T07:00:00+03:00",
+                "EpochRise": 1730606400,
+                "Set": "2024-11-03T17:09:00+03:00",
+                "EpochSet": 1730642940
+            },
+            "Moon": {
+                "Rise": "2024-11-03T09:01:00+03:00",
+                "EpochRise": 1730613660,
+                "Set": "2024-11-03T17:47:00+03:00",
+                "EpochSet": 1730645220,
+                "Phase": "WaxingCrescent",
+                "Age": 2
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 5.1,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 13.9,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 2.2,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Холодно"
+                },
+                "Maximum": {
+                    "Value": 13.3,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Прохладно"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 2.2,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Холодно"
+                },
+                "Maximum": {
+                    "Value": 11.5,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Прохладно"
+                }
+            },
+            "HoursOfSun": 3.7,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 9.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1,
+                    "Type": "Озон"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 3,
+                    "Category": "Умерен.",
+                    "CategoryValue": 2
+                }
+            ],
+            "Day": {
+                "Icon": 4,
+                "IconPhrase": "Переменная облачность",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Облачность рассеется",
+                "LongPhrase": "Облачность рассеется",
+                "PrecipitationProbability": 25,
+                "ThunderstormProbability": 0,
+                "RainProbability": 25,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 14.8,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 307,
+                        "Localized": "СЗ",
+                        "English": "NW"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 40.7,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 301,
+                        "Localized": "ЗСЗ",
+                        "English": "WNW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 63,
+                "Evapotranspiration": {
+                    "Value": 1.3,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 2431.7,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 59,
+                    "Maximum": 91,
+                    "Average": 71
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 7.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 10.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 9.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 8.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 11.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 10.3,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Night": {
+                "Icon": 34,
+                "IconPhrase": "Преимущественно ясно",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Преимущественно ясно",
+                "LongPhrase": "Преимущественно ясно",
+                "PrecipitationProbability": 25,
+                "ThunderstormProbability": 0,
+                "RainProbability": 25,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 11.1,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 39,
+                        "Localized": "СВ",
+                        "English": "NE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 29.6,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 77,
+                        "Localized": "ВСВ",
+                        "English": "ENE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 13,
+                "Evapotranspiration": {
+                    "Value": 0.3,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 0.0,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 72,
+                    "Maximum": 78,
+                    "Average": 75
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 4.0,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 6.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 4.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 5.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 8.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 6.4,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=4&unit=c",
+            "Link": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=4&unit=c"
+        },
+        {
+            "Date": "2024-11-04T07:00:00+03:00",
+            "EpochDate": 1730692800,
+            "Sun": {
+                "Rise": "2024-11-04T07:01:00+03:00",
+                "EpochRise": 1730692860,
+                "Set": "2024-11-04T17:08:00+03:00",
+                "EpochSet": 1730729280
+            },
+            "Moon": {
+                "Rise": "2024-11-04T10:07:00+03:00",
+                "EpochRise": 1730704020,
+                "Set": "2024-11-04T18:26:00+03:00",
+                "EpochSet": 1730733960,
+                "Phase": "WaxingCrescent",
+                "Age": 3
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 8.4,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 11.3,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 3.8,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 8.3,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 3.8,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                },
+                "Maximum": {
+                    "Value": 8.3,
+                    "Unit": "C",
+                    "UnitType": 17,
+                    "Phrase": "Зябко"
+                }
+            },
+            "HoursOfSun": 1.6,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 8.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1,
+                    "Type": "Озон"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 0,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 1,
+                    "Category": "Хорошая",
+                    "CategoryValue": 1
+                }
+            ],
+            "Day": {
+                "Icon": 7,
+                "IconPhrase": "Облачно",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light",
+                "ShortPhrase": "Облачно",
+                "LongPhrase": "Облачно",
+                "PrecipitationProbability": 40,
+                "ThunderstormProbability": 8,
+                "RainProbability": 40,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 16.7,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 124,
+                        "Localized": "ЮВ",
+                        "English": "SE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 48.2,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 117,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.5,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 0.5,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 2.0,
+                "HoursOfRain": 2.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 93,
+                "Evapotranspiration": {
+                    "Value": 1.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 608.5,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 54,
+                    "Maximum": 78,
+                    "Average": 64
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 3.7,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 7.6,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 6.0,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 5.1,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 9.0,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 7.6,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Night": {
+                "Icon": 18,
+                "IconPhrase": "Дождь",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate",
+                "ShortPhrase": "Дождь",
+                "LongPhrase": "Дождь",
+                "PrecipitationProbability": 94,
+                "ThunderstormProbability": 0,
+                "RainProbability": 94,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 13.0,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 108,
+                        "Localized": "ВЮВ",
+                        "English": "ESE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 35.2,
+                        "Unit": "km/h",
+                        "UnitType": 7
+                    },
+                    "Direction": {
+                        "Degrees": 130,
+                        "Localized": "ЮВ",
+                        "English": "SE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 13.9,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Rain": {
+                    "Value": 13.9,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "cm",
+                    "UnitType": 4
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "HoursOfPrecipitation": 7.5,
+                "HoursOfRain": 7.5,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 97,
+                "Evapotranspiration": {
+                    "Value": 0.3,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "SolarIrradiance": {
+                    "Value": 0.0,
+                    "Unit": "W/m²",
+                    "UnitType": 33
+                },
+                "RelativeHumidity": {
+                    "Minimum": 73,
+                    "Maximum": 88,
+                    "Average": 81
+                },
+                "WetBulbTemperature": {
+                    "Minimum": {
+                        "Value": 7.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 8.2,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 7.8,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                },
+                "WetBulbGlobeTemperature": {
+                    "Minimum": {
+                        "Value": 8.9,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Maximum": {
+                        "Value": 9.5,
+                        "Unit": "C",
+                        "UnitType": 17
+                    },
+                    "Average": {
+                        "Value": 9.1,
+                        "Unit": "C",
+                        "UnitType": 17
+                    }
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=5&unit=c",
+            "Link": "http://www.accuweather.com/ru/ru/sochi/293687/daily-weather-forecast/293687?day=5&unit=c"
+        }
+    ]
+}
